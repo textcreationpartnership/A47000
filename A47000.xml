@@ -1,0 +1,362 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The black book of conscience, or, God's high court of iustice in the soul wherein the truth and sincerity, the deceit and hypocrisie of every mans heart and ways is judged and discovered by their consciences : very seasonable for these times wherein wicked men, under pretence of liberty of conscience, take liberty to sin and blaspheme / by Andrew Iones.</title>
+            <author>Jones, Andrew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47000</idno>
+            <idno type="STC">Wing J906</idno>
+            <idno type="STC">ESTC R29450</idno>
+            <idno type="EEBO-CITATION">11146863</idno>
+            <idno type="OCLC">ocm 11146863</idno>
+            <idno type="VID">46394</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46394)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1425:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The black book of conscience, or, God's high court of iustice in the soul wherein the truth and sincerity, the deceit and hypocrisie of every mans heart and ways is judged and discovered by their consciences : very seasonable for these times wherein wicked men, under pretence of liberty of conscience, take liberty to sin and blaspheme / by Andrew Iones.</title>
+                  <author>Jones, Andrew.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The 22th edition.</edition>
+               </editionStmt>
+               <extent>[22] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Eliz. Andrews,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  England.</term>
+               <term>Conscience.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46394:1"/>
+            <pb facs="tcp:46394:1" rendition="simple:additions"/>
+            <p>THE BLACK BOOK OF CONSCIENCE.</p>
+            <p>OR, Gods High Court of Iuſtice in the SOUL.</p>
+            <p>Wherein, the Truth and Sincerity, the Deceit and Hypocriſie of every mans Heart and Ways, is judged and diſcovered by their conſciences.</p>
+            <p>Very ſeaſonable for theſe Times, wherein wicked men, under pretence of Liberty of Conſcience take liberty to ſin and Blaſpheme.</p>
+            <p>
+               <hi>The</hi> 22th. <hi>Edition.</hi> By <hi>Andrew Iones.</hi>
+            </p>
+            <q>
+               <p>The heart is deceitful above all things, and deſperately wicked, who can know it? I the Lord ſearch the heart, I try the reins, even to give every man according to his ways and according to the fruit of his doing,</p>
+               <bibl>
+                  <hi>Ier. 17.9.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>
+                  <g ref="char:V">Ʋ</g>nto the pure, all things are pure, but to them that are defiled and unbelieving, is nothing pure; but even ther Mind and Conſcience is defiled,</p>
+               <bibl>
+                  <hi>Tit. 1.15.</hi>
+               </bibl>
+            </q>
+            <p>Take heed to your ſelves what conſcience ye have For conſcience will damn, and conſcience will ſave</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Eliz. Andrews,</hi> at the <hi>White-Lyon</hi> near <hi>Pye-Corner.</hi> 1663</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:46394:2"/>
+            <pb facs="tcp:46394:2"/>
+            <head>The Black Book of CONSCIENCE.</head>
+            <epigraph>
+               <q>
+                  <bibl>Revel. 20.12.</bibl>
+                  <p>And I ſaw the dead ſmall and great, ſtand be<g ref="char:EOLhyphen"/>fore God; and the Books were opened: And another Book was opened, which is the Book of Life; and the dead were judged of thoſe things which were written in the Books, according to their works.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>S there are ſeveral books of God, which he hath written for the good of all the children of men; ſo there are two ſpe<g ref="char:EOLhyphen"/>cial books, by which the Lord will proce<g ref="char:cmbAbbrStroke">̄</g>ed in Iudgement againſt all the ſons and daughters of men. The books which God hath given to the children of men for their uſe and comfort of ſalvation, are theſe: Firſt, and chiefly, the books of the Old and New Teſtament: where in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſus Chriſt in all his Offices, King, Prieſt, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Prophet, for us to rule and guide us by his Spirit in our hearts, is made known and de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ared unto us. And therein likewiſe is ſet
+<pb facs="tcp:46394:3"/>down how every one of us ought to live, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> demean himſelf in this preſent world; with <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>veral fearful Examples of Gods heavy judg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ments againſt wicked and notorious ſinner in drowning the old World for their ſins a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wickedneſs, as you may ſée in the ſixth of <hi>G<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſis.</hi> So likewiſe in deſtroying <hi>Sodom</hi> &amp; <hi>G<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>morrah</hi> by fire from Heaven, <hi>Gen. 19.24, 2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> And the Lord rained upon Sodom and Gom<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rah Fire and Brimſtone, and over threw tho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cities, and all their inhabitants.</hi> With ſund<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ot her fearful examples of Gods heavy wra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and indignation, both againſt ſin and ſinner in general &amp; particular: All which, as St. <hi>Ju<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> ſaith in his Epiſtle, are ſet forth for our exam<g ref="char:EOLhyphen"/>ples, ſuffering the vengeance of the etern<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fire. Not for our examples, that we ſhould <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as they did; but that we ſhould be afraid to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as they did, to commit ſuch ſins, leſt the Lo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> lay upon us ſuch, or more heavier weights wrath and vengeance.</p>
+            <p>So likewiſe in the book of the Scripture, ſet forth the bleſſed and happy eſtate and con<g ref="char:EOLhyphen"/>dition of all the godly, both in this life, &amp; in the life to come, as<g ref="char:cmbAbbrStroke">̄</g> you may ſée, <hi>Pſa. 1. and 15. and 91. The godly man ſhall be delivered from the ſnare of the Fowler, and from the noiſome P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtilence. And becauſe he hath made the Lo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his refuge, there ſhall no evil befal him: So I
+<pb facs="tcp:46394:3"/>ſhall give his Angels charge over him, for to <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eep him in all his ways, v. 80, 21.</hi> The joys <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t are prepared for the godly, and the eternal <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orments that are appointed for the wicked, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e here likewiſe ſet forth in the Book of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cripture, as you may ſée, <hi>Mat. 15.34, 41.</hi> To <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e godly, <hi>Come ye bleſſed of my Father</hi> (ſaith <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt) <hi>inherit the Kingdom prepared for you, <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om the beginning of the world,</hi> But to the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>godly, <hi>Depart from me ye curſed into ever<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſting fire, prepared for the devil &amp; his Angels.</hi>
+            </p>
+            <p>Another great book of God is the book of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reature, containing thoſe mighty works both <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Creation and Providence: wherein the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmightineſs, Power, and Goodneſs of God <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſo plainly written, that he that runs may <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ad and ſée it: for as the Apoſtle ſaith, <hi>Rom. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. The inviſible things of him from the cre<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ion of the world are clearly ſeen, being un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erſtood,</hi> ſaith the Apoſtle, <hi>by the things that <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e made, even his eternal power &amp; Godhead, that they are without excuſe.</hi> Who, but an <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmighty God could out of nothing create all things? and being created, rule and govern all things: As <hi>David</hi> ſaith, It is nothing but the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmighty Power and Providence of God that <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears up the earth, and upholds the foundati<g ref="char:EOLhyphen"/>on thereof. And this Book even the very hea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens, who know not God in his word, who
+<pb facs="tcp:46394:4"/>never heard of Ieſus Chriſt or Salvation, are acquainted with: they (I ſay) by ſéeing and reading the mighty works of God in y<hi rend="sup">e</hi> world, do confeſs and ſay, Verily their is God; and none but a God could create thoſe glorious cretures, the Sun, Moon, and Stars.</p>
+            <p>So likewiſe there are two ſpecial Books, by which God will judge all the ſons and daugh<g ref="char:EOLhyphen"/>ters of men at the laſt. And theſe are, firſt, the book of his remembrance written by himſelf; wherein the lives of all men, yea, their very thoughts are recorded, as <hi>David</hi> ſaith, <hi>Pſa 94.11. The Lord knoweth the thoughts of men that they are vanity.</hi> And <hi>Pſa. 129: 1, 2, 3, 4.</hi> ſaith <hi>David, O Lord thou haſt ſearched me, and known me; thou knoweſt my down-ſitting, and my upriſing, thou underſtandeſt my thoughts afar off. Thou compaſſeth my path and my ly<g ref="char:EOLhyphen"/>ing down, and art acquainted with all my ways. There is not a word in my mouth, but thou O Lord knoweſt it altogether.</hi> And al<g ref="char:EOLhyphen"/>though the heart of man, as <hi>Jeremiah</hi> ſaith, <hi>Jer. 17.9, 10.</hi> is deceitful above all things: yet God hath exactly known every turning &amp; cor<g ref="char:EOLhyphen"/>ner thereof: <hi>I the Lord know the heart,</hi> (ſaith he) <hi>I try the reins.</hi> There is nothing can be hid from his eternal all-ſeeing eye.</p>
+            <p>And then ſecondly, there is the book of coll<g ref="char:EOLhyphen"/>ſcience, in which is exactly written all our acti<g ref="char:EOLhyphen"/>ons,
+<pb facs="tcp:46394:4"/>thoughts, words, and deeds; and accor<g ref="char:EOLhyphen"/>ding to this book of conſcience, and what is therein written, will the Lord proceed in judg<g ref="char:EOLhyphen"/>ment: and every mans conſcience ſhall be his own Judge. Saith God, what haſt thou done? How haſt thou lived in the World? Why thus and thus have I lived, (ſaith Conſcience.) Conſcience will then ſpeak the truth, and no<g ref="char:EOLhyphen"/>thing but the truth. O Lord (ſaith a wicked mans conſcience) I have diſhonoured thy name, I have abuſed thy grace and mercy, in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urning it into wantonneſs. I have abuſed thy treatures, by waſtful and riotous ſpending, to pleaſe and ſatisfie my luſt, ſaith the Prodigal mans conſcience. And by chambring and wan<g ref="char:EOLhyphen"/>tonneſs, by gaming and dicing away precious <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime, faith the laſcivious and voluptuous mans conſcience. Thou gaveſt me times and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſons of grace &amp; mercy, and many precious <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pportunities, and ſoul-advantages, whereby I might have wrought out my own ſalvation <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith fear and trembling, and as <hi>Peter</hi> ſaith, I might have made my calling and election ſure <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o mine own ſoul, but inſtead of working out my own ſalvation with fear and trembling, &amp; <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n making my calling and election ſure, I have brought out my own damnation, without ei<g ref="char:EOLhyphen"/>ther fear or wit, and made my ſelf ſure of eter<g ref="char:EOLhyphen"/>nal and everlaſting wrath and condemnation,
+<pb facs="tcp:46394:5"/>ſaith méer moral, formal and prophane chri<g ref="char:EOLhyphen"/>ſtians conſciences. Ah Lord (ſaith the diſſem<g ref="char:EOLhyphen"/>bling Hypocrites conſcience) I have béen but an outſide Chriſtian; I have gone to Church but onely as dogs do, for faſhion ſake, and to be looked upon, &amp; eſtéemed among my neighbours I have made a ſhew indéed and pretence of Re<g ref="char:EOLhyphen"/>ligion and holineſs, but it hath been but a meer ſhow; I have altogether denied the power and practice of it in my life and converſation, as it is, <hi>Tit. 1.16. They profeſs that they know God, but in works they deny him, being abo<g ref="char:EOLhyphen"/>minable, and diſobedient, and to every good Work reprobate.</hi> And why ſo? becauſe as he ſaith in the <hi>15 verſ. Their minds and conſci<g ref="char:EOLhyphen"/>ences are defiled.</hi> Ah, my conſcience told m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeveral times, that I was but an Hypocrite, a meer painted Sepulchre, fair without, but foul within: O but I would not hear conſcience then, but ſlighted and neglected him: Ah, but now my conſcience makes me hear him whe<g ref="char:EOLhyphen"/>ther I will or no. Therefore Lord do with m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what thou pleaſeſt; true and righteous art thou in all thy dealings towards me, be they never ſo harſh, they are but y<hi rend="sup">e</hi> juſt reward of mine ini<g ref="char:EOLhyphen"/>quities. And ſaith the covetous mans conſci<g ref="char:EOLhyphen"/>ence, and the griping, cruel, extorting Vſerer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſciences, (Lord) I confeſs I have been covetous wretch, but I have not coveted after
+<pb facs="tcp:46394:5"/>heaven; it hath been my whole trade and buſi<g ref="char:EOLhyphen"/>neſs to cozen and cheat others, and to gripe and grind the faces of the poor, and all that I could to undo others: Aut alas for me, what have I done? I have quite and clean undone my own ſoul, &amp; that to all eternity: I have been very cruel and unmerciful to others; I would not forgive my poor brethren in the leaſt. O Lord I deſerve no mercy at thy hands, the hot<g ref="char:EOLhyphen"/>teſt place will be too cold for me.</p>
+            <p>What have you done with all your wealth, (ſaith God to rich men) all thoſe great eſtates, and poſſeſſions which I lent to you, or rather intruſted you with as ſtewards? How have you improved them? what of them have you laid out or lent to me again, in releiving my poor mem<g ref="char:EOLhyphen"/>bers? What good have you gotten to your own ſouls by them? Have you laid up any thing in ſtore for eternal life? O no (ſaith conſcience) I have not; Lord I have not: But this I have done; <hi>I have treaſured up wrath againſt the day of wrath. My gold and ſilver is ruſted, my riches are corrupted, &amp; myrich garments moth<g ref="char:EOLhyphen"/>eatén,</hi> as <hi>S. James</hi> ſaith in his <hi>5. ch. 12, 13, 14. v. My gold and ſilver is cankered, and the ruſt of them is now a witneſs againſt me to condemn me, &amp; eats my fleſh as if it were fire.</hi> And now alſo behold y<hi rend="sup">e</hi> hire of y<hi rend="sup">e</hi> laborers which have reap<g ref="char:EOLhyphen"/>ed down my field, which I kept back by fraud
+<pb facs="tcp:46394:6"/>cryeth, and the crys of them which have reap<g ref="char:EOLhyphen"/>ed are entred into the ears of the Lord of Sab<g ref="char:EOLhyphen"/>baths: I have lived in pleaſure on the earth, and been wanton, and I have nouriſhed my heart as in a day of ſlaughter. I told you (ſaith conſcience) that for all your pleaſures, and for all your riches, and for all your greatneſs and delights, you muſt come to judgement, &amp; give an account to God of all your actions, and for all your wealth: and how, and which way you ſpent every penny that he lent you: Did I not tell you ſaith conſcience? True it is my conſci<g ref="char:EOLhyphen"/>ence told me; but I ſlighted conſcience as a thing of no value or account. Ah miſerable man that I was, to ſlight this voice of conſcience! wo unto me, my puniſhment is leſs then mine iniquities deſerve. Thus and thus will mens conſciences deal with them before the Lord.</p>
+            <p>When as <hi>Peter</hi> denied his Lord &amp; Maſter, his conſcience let him alone once, yea, twice, but the third time the Cock crew, and <hi>Peters</hi> heart ſmote him for what be had done; and he went forth and wept bitterly. <hi>Peter</hi> did not go about to ſtop y<hi rend="sup">e</hi> mouth of his conſcience, as <hi>Ju<g ref="char:EOLhyphen"/>das</hi> did, &amp; ſo banged himſelf: no, <hi>Peter</hi> he cloſed with the voice of his conſcience, and ſo by his true &amp; unfeigned repentance obtained mercy.</p>
+            <p>So likewiſe <hi>David</hi> when the Prophet <hi>Nathan</hi> in <hi>(2 Sam. 12.13.)</hi> had by the Parable of the
+<pb facs="tcp:46394:6"/>Ew-lamb ſhewed <hi>David</hi> the evil of his ſins, pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſently <hi>David</hi> was convinced in his conſcienc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the horridneſs of his ſins? and <hi>David</hi> ſai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto <hi>Nathan, I have ſinned againſt the Lord. Have mercy upon me</hi> (ſaith <hi>David, Pſalm. 51.</hi> the Pſalm of his Repentance) <hi>according to thy loving kindneſs: According to the multi<g ref="char:EOLhyphen"/>tude of thy tender mercies blot out my tranſ<g ref="char:EOLhyphen"/>greſſions. Waſh me throughly from mine ini<g ref="char:EOLhyphen"/>quity, and cleans me from my ſin. For I ac<g ref="char:EOLhyphen"/>knowledge my tranſgreſſions, and my ſin is before me. Againſt thee, even thee onely have I ſinned, and done this evil in thy ſight. Da<g ref="char:EOLhyphen"/>vid</hi> had a very tender conſcience; for when he did cut off <hi>Sauls</hi> skirt, his heart ſmote him, his conſcience accuſed him, as you may ſée, <hi>5 Sam. 24.5.</hi> O, but how many wicked men are there now, whoſe conſciences tell them over and over, again and again of their ſins, &amp; yet for all that, they ſtop their ears againſt conſcience. How many times doth the beaſtly Drunkards conſcience, the prophane Swear<g ref="char:EOLhyphen"/>ers, y<hi rend="sup">e</hi> Sabbath-breakers conſciences tell them of their ſins? and yet notwithſtanding for all the checks of conſcience, they will go on in their ſins, and fill up the meaſures of their iniquities, and ſo makes conſcience to fill up his black ſcroll of indictments againſt them, whereby they are everlaſtingly condemned: O
+<pb facs="tcp:46394:7"/>if men would but be convinced in their conſci<g ref="char:EOLhyphen"/>ences of the evil of their ways, when their con<g ref="char:EOLhyphen"/>ſcience tells them of it, how many thouſands might be brought home by repentance to life eternal, who now run head-long to the Pit of deſtruction? I am perſwaded, that many who cozen and cheat by undermining and over-ſel<g ref="char:EOLhyphen"/>ling, uſing falſe and light weights and mea<g ref="char:EOLhyphen"/>ſures, cannot chuſe but meet with many checks from their conſciences, and O that men would be convinced of this great evil.</p>
+            <p>Hear this, O ye that ſwallow up the needy by falſe weights and meaſures: O be convin<g ref="char:EOLhyphen"/>ced in thy conſcience! Make Conſcience thy friend now by forſaking thy evil Practices, leſt Conſcience prove thy foe to torment thee for ever. But men now adays, inſtead of being con<g ref="char:EOLhyphen"/>vinced of their conſciences of the evil of their ways, are not aſhamed to commit all manner of abominations, &amp; that with greedineſs; and then lay all the blame upon their conſciences: and why ſo? It was my conſcience, ſay they, As many of our curſed Diabolical <hi>Ranters, Quakers,</hi> and notorious wicked <hi>Libertines</hi> in theſe our days, have laid all their impieties and horrid blaſpemies, upon their conſciences. Ask them but y<hi rend="sup">e</hi> reaſon why they deny Chriſt and the Scripture, and caſt off Ordinance, and the Miniſtry of Chriſt, and live as they liſt, and
+<pb facs="tcp:46394:7"/>refuſe ſubjection to Magiſtrates, and in their actions become worſe then beaſts? Why, they do hold ſuch damnable and devilliſh Opinions both againſt God and Chriſt; yea, againſt hu<g ref="char:EOLhyphen"/>manity it ſelf? Ask them the reaſon of theſe things, and what do they ſay? It is from the Light within us; it is the liberty of our con<g ref="char:EOLhyphen"/>ſciences; and have not we fought for liberty of Conſcience? Ah curſed wretches, the Light within you is darkneſs! Is this the liberty of thy conſcience; No, no, this is the liberty of thy luſts, and the delnſions of the Devil: thou haſt ſeared thy conſcience with a hot Iron; but yet at laſt, thy conſcience, though thou haſt de<g ref="char:EOLhyphen"/>filed it never ſo much, will put the ſaddle upon the right horſe, and charge thee home with all the blame. Is liberty of conſcience a libérty to ſin? No, God forbid; <hi>Shall we ſin</hi> (ſaith S. <hi>Paul, Rom. 6.1.</hi>) <hi>that grace may abound? No, God forbid.</hi> I dare not (ſaith a gracious heart) my conſcience tells me I muſt not. <hi>How ſhall I</hi> (ſaith <hi>Joſeph, Gen. 39.9.</hi>) <hi>do this great wicked<g ref="char:EOLhyphen"/>neſs and ſin againſt God? The grace of God</hi> (ſaith the Apoſtle, <hi>Tit. 2.11.</hi>) <hi>that brings ſalva<g ref="char:EOLhyphen"/>tion, teacheth me to deny ungodlineſs and worldly luſt, and to live ſoberly, righteouſly and godly in this preſent world:</hi> And not to live as we liſt, which is a ſign of no grace at all.</p>
+            <p>A truly tender conſcience will be very ten<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:46394:8"/>of committing ſin, and will have a circum<g ref="char:EOLhyphen"/>ſpect care over himſelf how he walks, and how he lives, that ſo the name of God and of Chriſt be not blaſphemed: but in theſe laſt and worſt of times, wherein men, as S. <hi>Paul</hi> ſaith, make <hi>ſhipwrack of faith and a good conſcience,</hi> men have not minded this at all, but have taken a full liberty to commit all manner of ſins. And I pray God that this ſin be not charged upon thoſe, who inſtead of reſtraining men from ſin, a puniſhing them for ſin, have tollerated them to ſin, if not countenanced them to ſin. But let men take beed how they ſin, becauſe grace a<g ref="char:EOLhyphen"/>bounds. For ſaith the Apoſtle, <hi>Heb. 10.26, 27. If we ſin wilfully after that we have received the knowledge of the truth, there remaineth no more ſacrifice for ſin, but a certain fearful looking for of judgement and fiery indignati<g ref="char:EOLhyphen"/>on from the Lord. For the wrath of God (Rom. 1.18.) is revealed from heaven againſt all ungodlineſs, and unrighteouſneſs of men, who hold the truth of God in unrighteouſ<g ref="char:EOLhyphen"/>neſs.</hi> Read theſe two texts, and tremble all ye that take liberty to ſin, becauſe the grace of God hath abounded. How will ye be able to look either God or conſcience in the face: cer<g ref="char:EOLhyphen"/>tainly you will be never able to do it, unleſs you repent: for if men will ſin willingly, not<g ref="char:EOLhyphen"/>withſtanding all their checks of conſcience,
+<pb facs="tcp:46394:8"/>their conſcience will condemn them irreſiſtably before the Lord. For certain it is, there is a conſcience in every man, that ſées &amp; obſerves, and takes notice of all his ways, and will kéep a juſt account of them; and ſo be a witneſs either for, or againſt the ſoul, at the day of Iudgement. What was it that made the Apo<g ref="char:EOLhyphen"/>ſtles ſo joyful in all their trouble and perſecuti<g ref="char:EOLhyphen"/>ons? was it not the witneſs of their conſcien<g ref="char:EOLhyphen"/>ces? ſée <hi>2 Cor. 1.12. Our rejoycing is this</hi> (ſaith St. <hi>Paul) the teſtimony of our conſcience.</hi> What was it made <hi>Paul</hi> &amp; <hi>Silas</hi> ſing in priſon for joy? was it not that their conſciences told them they were happy &amp; bleſſed men, notwith<g ref="char:EOLhyphen"/>ſtanding all their ſufferings and reproaches?</p>
+            <p>Now what conſcience is, I ſhall briefly ſhew you, and ſo conclude: <hi>Conſcience is a thing with which God endued the ſoul of man by crea<g ref="char:EOLhyphen"/>tion, and is for our comfort, if we live well as we ought to do; but will be a dreadful terror to all thoſe that live and dye in their ſins.</hi> For this conſcience was in <hi>Adam</hi> before his fall: though not as a condemner till his fall: for where there is no ſin, what néedeth an accuſer? So long as <hi>Adam</hi> kept the commands of God, there was no cauſe for conſcience to condemn him: but as ſoon as ever <hi>Adam</hi> tranſgreſt, his conſcience flew in his face, which made him fly from y<hi rend="sup">e</hi> face of God, as you may ſée, <hi>Gen. 3.7, 8.</hi>
+               <pb facs="tcp:46394:9"/>The eyes of them both were opened: their con<g ref="char:EOLhyphen"/>ſcience accuſed, and they hid themſelves. And this conſcience is onely in men and women: for bruit beaſts wanting reaſon, are not capa<g ref="char:EOLhyphen"/>ble of conſcience, and the beaſts when they dy, there is an end of them: but it is not ſo with man, for conſcience in man followeth the man further then the grave: for if men might bury their conſciences with them in their Graves, they might be happy, notwihſtanding al their a<g ref="char:EOLhyphen"/>buſes of conſcience? for men oftentimes againſt all reaſon, equity or conſcience, doth worſe then the worſt of beaſts. And this conſcience kéep<g ref="char:EOLhyphen"/>eth his Court in the heart, and there ſits upon the life or death of the ſoul; and according as he finds every mans work, ſo doth he paſs ſen<g ref="char:EOLhyphen"/>tence of condemnation or abſolution; for there is no briving of conſcience, conſcience will ſpeak the truth of every mans ways before the Lord, be they good, or be they evil. <hi>If our hearts condemn us</hi> (ſaith S. <hi>John, 1 Joh. 2.10.</hi>) <hi>God is greater then our heart,</hi> y<hi rend="sup">t</hi> is our conſcience.</p>
+            <p>And God hath given this power to conſci<g ref="char:EOLhyphen"/>ence, becauſe men ſhould have no plea of excuſe before the Lord. It was not <hi>Pilates</hi> waſhing of his hands, &amp; ſaying, <hi>I am guiltleſs of the blood of this juſt man,</hi> that could waſh away the guilt of Chriſts blood from his conſcience: <hi>Pilates</hi> Conſcience told him that Chriſt was a juſt
+<pb facs="tcp:46394:9"/>man, and that he ſaw no cauſe of death in him at all, <hi>Luk. 23.23.</hi> and yet curſed <hi>Pilate</hi> contra<g ref="char:EOLhyphen"/>ty to the light of his own conſcience, delivered the Lord of life into the hands of bloody men to be crucified, and ſo brought the guilt of his blood upon his own ſoul.</p>
+            <p>He that will not endure conſcience to reprove him for his ſins, certainly he loves to go to hell without controul: and he that will not endure Conſcience to tell him of his ſins here, ſhall whether he will or no, ſuffer ſufficient torment for his ſins hereafter: For an evil Conſcience is a hell to the ſoul here, and ſhall be the hell of hels hereafter.</p>
+            <p>Now then, if there be ſuch a thing in man as conſcience, and that his conſcience ſhall either juſtifie or condenm him; then let every man take héed how he orders his converſation in the world: do not give leave to your ſelves to think, ſay, or do any thing, but what you are willing to own before the Lord at the laſt day. There<g ref="char:EOLhyphen"/>fore let every one of us ſo think, and ſo ſpeak, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſo do, that we may not have a conſcience to condemn us: But let us ſo live as thoſe that expect to have conſcience witneſs for them be<g ref="char:EOLhyphen"/>fore the Lord, that with godly ſincerity they have had their converſation in this world. But what multitudes are there in the world, that be as if there were no conſcience at all; nei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:46394:10"/>God nor Devil, nor Heaven nor Hell: <hi>Whoſe God is their belly, and whoſe end is de<g ref="char:EOLhyphen"/>ſtruction,</hi> (as S. <hi>Paul</hi> ſaith, <hi>Phil. 3.19.</hi>) <hi>who de<g ref="char:EOLhyphen"/>clare their ſin as Sodom, and hide it not: Wo<g ref="char:EOLhyphen"/>unto them</hi> (ſaith the Lord) <hi>they have rewar<g ref="char:EOLhyphen"/>ded evil to themſelves, Iſa. 3.9.</hi> this may be ſaid of thouſands among us, whoſe countenance te<g ref="char:EOLhyphen"/>ſtifie againſt them; their wanton carriages, painted faces, naked breaſts, powdred locks, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other antick faſhions, teſtifie againſt thouſands both of men and women, y<hi rend="sup">e</hi> they do little mind this great truth; that conſcience can, and will declare all their doings to God. Proud <hi>Ha<g ref="char:EOLhyphen"/>mans,</hi> drunken <hi>Nabals,</hi> and whoring <hi>Jeſabel</hi> declare their ſin as <hi>Sodom,</hi> &amp; hide it not; and as for Conſcience they turn him off: But in theſe miſerable wretches know this, as the pro<g ref="char:EOLhyphen"/>phet ſaith, <hi>Wo unto them who have reward<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> evil unto themſelves.</hi> They have made a long black bloody vill for conſcience to open again<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them at the laſt day of the term of their lives, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoon as ever their ſouls are departed from the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bodies, ſentence ſhall be paſſed againſt them according to the light and teſtimony of the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> own conſciences.</p>
+            <p>Séeing then Conſcience will give teſtimon<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of every ones ways, let us not ſlight Conſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ence, let us not ſtop the mouthof Conſcien<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſéeing Conſcience can and will ſpeak, and t<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb facs="tcp:46394:10"/>us what we are. Many there are that go about to ſtop the mouth of conſcience, when Conſci<g ref="char:EOLhyphen"/>ence deals plainly with them, and tels them of their ſins, Oh they cannot endure to hear of that: but remember the miſerable end of <hi>Judas,</hi> what ſaid <hi>Judas</hi> his conſcience to him? Thou haſt betrayed thy Lord and Maſter for a little Silver; Ali covetous wretch! But could <hi>Judas</hi> his ſilver ſtop the mouth of his conſci<g ref="char:EOLhyphen"/>ence? No, <hi>Judas</hi> his conſcience ſo terrifies him, that he flung in the money again, and ſo went and hanged himſelf.</p>
+            <p>So likewiſe remember the fearful eſtate of <hi>Spira,</hi> and many others, whoſe conſciences made them to poſſeſs the wrath of God here on earth. <hi>A wounded ſpirit</hi> (ſaith <hi>Solomon, Prov. 8.14.</hi>) <hi>who can bear?</hi> a tormenting and con<g ref="char:EOLhyphen"/>demning Conſcience who can endure? O there is no reſiſting of conſcience, it is Gods Vice<g ref="char:EOLhyphen"/>gerent in the ſoul. When conſcience ſpeaks threatning language to many for ſuch and ſuch ſins, they ſéek to turn conſcience out of doors: but becauſe they cannot poſſibly do this, they ſtrive to ſtop his mouth by running wilfully into ſin; like men that deſperately give up their ſouls to the devil, and ſo make ſhipwrack of faith, con<g ref="char:EOLhyphen"/>ſcience, ſoul, and all for ever: and then follows (as we have ſeen by woful experience) ſelf-ſtabbing, ſelf-hanging, drowning, or poiſoning,
+<pb facs="tcp:46394:11"/>or ſome ſuch like accurſed ends. Oh conſider this, all ye that forget God, and make no con<g ref="char:EOLhyphen"/>ſcience of your ways, you undermine your own ſalvation. Many men deal with conſcience as <hi>Felix</hi> did with <hi>Paul, Acts 24.25.</hi> they will hear conſcience, ſo long as it ſpeaks good; but when conſcience tells them thorowly of their ſins, their darling ſins, then they have enough of conſcience, and ſo puts him off till they he better at leſure.</p>
+            <p>When there was no King in Iſrael, every man did what was good in his own eyes; ſo where there is no conſcience alive in the ſoul, men lives as they liſt: but yet for all this con<g ref="char:EOLhyphen"/>ſcience will ſpeak home at laſt. If thou art a drunkard, or an adulterer, or an unjuſt dealer; or whatſoever ſin it is thou art guilty of, con<g ref="char:EOLhyphen"/>ſcience will make it known: and if at laſt con<g ref="char:EOLhyphen"/>ſcience doth condemn, thou ſhalt never be ſa<g ref="char:EOLhyphen"/>ved: But on the contrary, though men and de<g ref="char:EOLhyphen"/>vils ſay, thou art an hypocrite, or the like, yet if thou haſt the teſtimony of thy conſcience, God will own thee as juſt and righteous. One dram of the peace of conſcience is worth a thouſand worlds. What would the damned in Hell give for a little of this laſting jay, this <hi>peace which paſſeth all underſtanding,</hi> the want of which is hell, yea worſe then hell.</p>
+            <p>Think upon this, O ye great ones of the
+<pb facs="tcp:46394:11"/>world, who live in pleaſure: Remember that there is a conſcience, and that there is a God, and that thou haſt a precious immortal ſoul, which if thy conſcience witneſs againſt, ſhall be thrown-into Hell. You that eat the fat and ſweet of the earth, and drink wine in bowls, and cloath your ſelves in ſilks, remember this, that conſcience takes notice of all thy ways, of the pride of thy heart, of the vanity of thy life, and ſetteth all down in his <hi>Black Book,</hi> You that like the harlot in <hi>Prov. 7.</hi> cry, <hi>Let us take our fill of love and pleaſure:</hi> conſider that all theſe things muſt have an end, when all is done, the Bell muſt toll, and you muſt all dance after deaths pipe, who are now ſtnging and ſwing<g ref="char:EOLhyphen"/>ing your ſelves in worldly pleaſures and de<g ref="char:EOLhyphen"/>lights. O if God ſhould ſay to any ſoul of you, as he did to the rich fool, in <hi>Luk. 12.20. This night ſhall thy ſoul be taken from thee:</hi> It ſhall little advantage you then to weep and cry, O that I were out of theſe Infernal and external Flames! O that I had hearkened when time was, to the voice of Chriſt and my own Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>The Sighs and groans of dying men are often very ſad; but the cryes and groans of the damned in Hell, can never he imagined or ex<g ref="char:EOLhyphen"/>preſſed. O conſtder this, you that ſin away Conſcience, that quaff and drink away conſci<g ref="char:EOLhyphen"/>ence,
+<pb facs="tcp:46394:12"/>accompanying one another in ſin; take heed you be not one day found to weep over one anothers backs in hell. Certainly whole coach<g ref="char:EOLhyphen"/>fuls of gallants will be tumbled down into hell: The Lord awaken your ſleepy dead conſciences before you go hence &amp; be no more ſeen. What pitty is it that perſons that bears the Image of God, and are as it were in outward glory and beauty, Gods above others? what pitty is it that ſuch beauty ſhould come to be embraced by ugly loathſome devils in Hell. Thouſands there are, that court and ſport, pin and paint away their time, whoſe end is to be burned, and ſhall at laſt periſh in hell. Fruitleſs Fig-trees they are, that bear nothing but leaves: <hi>Cut them down</hi> (ſaith God) <hi>and caſt them into the fire.</hi> To periſh in a priſon or on a dunghil is nothing; to dye for want of food is nothing: <hi>Lazarus</hi> died ſo, whilſt <hi>Dives</hi> with his delici<g ref="char:EOLhyphen"/>ous fare dyed on his hed of down, and was caſt into hell. You that lye upon beds of Ivory, and have your hangings of needle-works, if you get not Chriſt and a good conſcience, hell ſhall be your fare, and devils your companions to tor<g ref="char:EOLhyphen"/>ment you for ever: and who ſhall be able to ſtand in the day of the Lords wrath? And, <hi>who can dwell with everlaſting burnings?</hi>
+            </p>
+            <p>Companions in ſin, ſhall be companions in Hell; and thoſe who can ſport andp lay one
+<pb facs="tcp:46394:12"/>with another, ſhall in Hell drag and torment one another, and curſe the day that ever they ſaw one another; and cry out one of another, O what miſerable wretches were we, to loſe the heaven of heavens for a little vain delight, the love and favour of God, for the love and favour of wicked rompanions, in whoſe preſence we more delighted, then in the everlaſting love of God, whoſe pleaſures are pleaſures for ever<g ref="char:EOLhyphen"/>more. What prefitteth it now, that we have had our Wine and our Muſick, our fill and our ſull of earthly delights? O wretched creatures that we are, who ſhall deliver us from this dy<g ref="char:EOLhyphen"/>ing death, theſe miſerable torments? Wo unto us, we have rewarded evil to our own ſouls, we are taniſhed for ever from the preſence of the Lord, and have utterly loſt that inward peace of conſcience, the want whereof addeth torments to our torments, and maketh us in our miſery more excéeding miſerable.</p>
+            <p>Now the Lord give every one of us this peace this joy: which that we may all have; <hi>The Peace of God which paſſeth all underſtanding keep our hearts and minds in the love and knowledge of Jeſus Chriſt; And the blood of Chriſt waſh and purge our conſciences from dead works, that we may ſerve the living God.</hi> Which that we may all do: <hi>The grace of our Lord Jeſus Chriſt be with us all. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:46394:13"/>
+            <head>Courteous Reader</head>
+            <p>THere is lately publiſhed an excellent and profitable Sermon, called Chriſts firſt Sermon, or, The neceſſity duty and practice of Repentance, opened and applied, Alſo Chriſts laſt Sermon, or; The everla<g ref="char:EOLhyphen"/>ſting eſtate and condition of all men in the World to come. Likewiſe the Chriſtians beſt Garment, or, The putting on of the Lord Jeſus Chriſt. The Chriſtians bleſſed Choice. Alſo Heavens Glory and Hells Hor<g ref="char:EOLhyphen"/>ror, or the parable between Dives and Laza<g ref="char:EOLhyphen"/>rus opened and applied, And the School of Grace. Very godly Books, and are but three pence a peece price.</p>
+            <p>There is likewiſe nine other ſmall Books, all of them very godly, and comfortable for thy ſoul, One is entituled, Englands Faith<g ref="char:EOLhyphen"/>ful Phyſitian. The ſecond, Dooms-day at hand. The third, The Dreadful Character of a Drunkard. The fourth, The Fathers laſt bleſſing to his children. The fifth, The ſin of pride arraigned and condemned. The fixth, The Plain-mans-plain Path-way to heaven. The ſeventh, Peters Sermon of Repentance. The eighth, The Charitable Chriſtian. The ninth, Death Triumphant. All very neceſſary for theſe licentious times, &amp; each of them be<g ref="char:EOLhyphen"/>ing but two pence price. They are to be ſold by <hi>Eli. Andrews,</hi> at the white-Lyon neer Py<g ref="char:EOLhyphen"/>corner.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46394:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
